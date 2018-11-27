@@ -1,0 +1,1581 @@
+{"QandA":
+
+[
+ {
+   "ID": 1,
+   "Question": "Capital city of Afghanistan?",
+   "CorrectAnswer": "Kabul",
+   "Answer1": "Abu Dhabi",
+   "Answer2": "Kabul",
+   "Answer3": "Pristina"
+ },
+ {
+   "ID": 2,
+   "Question": "Capital city of Albania?",
+   "CorrectAnswer": "Tirana",
+   "Answer1": "Tirana",
+   "Answer2": "Yamoussoukro",
+   "Answer3": "Abuja"
+ },
+ {
+   "ID": 3,
+   "Question": "Capital city of Algeria?",
+   "CorrectAnswer": "Algiers",
+   "Answer1": "Accra",
+   "Answer2": "Algiers",
+   "Answer3": "Cairo"
+ },
+ {
+   "ID": 4,
+   "Question": "Capital city of Andorra?",
+   "CorrectAnswer": "Andorra la Vella",
+   "Answer1": "Andorra la Vella",
+   "Answer2": "Apia",
+   "Answer3": "Addis Ababa"
+ },
+ {
+   "ID": 5,
+   "Question": "Capital city of Angola?",
+   "CorrectAnswer": "Luanda",
+   "Answer1": "Budapest",
+   "Answer2": "Luanda",
+   "Answer3": "Algiers"
+ },
+ {
+   "ID": 6,
+   "Question": "Capital city of Antigua and Barbuda?",
+   "CorrectAnswer": "Saint John's",
+   "Answer1": "Saint John's",
+   "Answer2": "Amman",
+   "Answer3": "Ngerulmud"
+ },
+ {
+   "ID": 7,
+   "Question": "Capital city of Argentina?",
+   "CorrectAnswer": "Buenos Aires",
+   "Answer1": "Amsterdam",
+   "Answer2": "Tegucigalpa",
+   "Answer3": "Buenos Aires"
+ },
+ {
+   "ID": 8,
+   "Question": "Capital city of Armenia?",
+   "CorrectAnswer": "Yerevan",
+   "Answer1": "Yerevan",
+   "Answer2": "Yaounde",
+   "Answer3": "Andorra la Vella"
+ },
+ {
+   "ID": 9,
+   "Question": "Capital city of Australia?",
+   "CorrectAnswer": "Canberra",
+   "Answer1": "Ankara",
+   "Answer2": "Moroni",
+   "Answer3": "Canberra"
+ },
+ {
+   "ID": 10,
+   "Question": "Capital city of Austria?",
+   "CorrectAnswer": "Vienna",
+   "Answer1": "Guatemala City",
+   "Answer2": "Vienna",
+   "Answer3": "Antananarivo"
+ },
+ {
+   "ID": 11,
+   "Question": "Capital city of Azerbaijan?",
+   "CorrectAnswer": "Baku",
+   "Answer1": "Baku",
+   "Answer2": "Apia",
+   "Answer3": "Vilnius"
+ },
+ {
+   "ID": 12,
+   "Question": "Capital city of Bahamas?",
+   "CorrectAnswer": "Nassau",
+   "Answer1": "Ashgabat",
+   "Answer2": "Damascus",
+   "Answer3": "Nassau"
+ },
+ {
+   "ID": 13,
+   "Question": "Capital city of Bahrain?",
+   "CorrectAnswer": "Manama",
+   "Answer1": "Luxembourg ",
+   "Answer2": "Asmara",
+   "Answer3": "Manama"
+ },
+ {
+   "ID": 14,
+   "Question": "Capital city of Bangladesh?",
+   "CorrectAnswer": "Dhaka",
+   "Answer1": "Dhaka",
+   "Answer2": "Maputo",
+   "Answer3": "Astana"
+ },
+ {
+   "ID": 15,
+   "Question": "Capital city of Barbados?",
+   "CorrectAnswer": "Bridgetown",
+   "Answer1": "Bridgetown",
+   "Answer2": "Antananarivo",
+   "Answer3": "Asunción"
+ },
+ {
+   "ID": 16,
+   "Question": "Capital city of Belarus?",
+   "CorrectAnswer": "Minsk",
+   "Answer1": "Athens",
+   "Answer2": "Vientiane",
+   "Answer3": "Minsk"
+ },
+ {
+   "ID": 17,
+   "Question": "Capital city of Belgium?",
+   "CorrectAnswer": "Brussels",
+   "Answer1": "Brussels",
+   "Answer2": "Bucharest",
+   "Answer3": "Baghdad"
+ },
+ {
+   "ID": 18,
+   "Question": "Capital city of Belize?",
+   "CorrectAnswer": "Belmopan",
+   "Answer1": "Brasilia",
+   "Answer2": "Belmopan",
+   "Answer3": "Baku"
+ },
+ {
+   "ID": 19,
+   "Question": "Capital city of Benin?",
+   "CorrectAnswer": "Porto-Novo",
+   "Answer1": "Porto-Novo",
+   "Answer2": "Bamako",
+   "Answer3": "Nassau"
+ },
+ {
+   "ID": 20,
+   "Question": "Capital city of Bhutan?",
+   "CorrectAnswer": "Thimphu",
+   "Answer1": "Thimphu",
+   "Answer2": "Amman",
+   "Answer3": "Bandar Seri Begawan"
+ },
+ {
+   "ID": 21,
+   "Question": "Capital city of Bolivia?",
+   "CorrectAnswer": "Sucre (de jure)",
+   "Answer1": "Bangkok",
+   "Answer2": "Sucre (de jure)",
+   "Answer3": "Ljubljana"
+ },
+ {
+   "ID": 22,
+   "Question": "Capital city of Bosnia and Herzegovina?",
+   "CorrectAnswer": "Sarajevo",
+   "Answer1": "Banjul",
+   "Answer2": "Lima",
+   "Answer3": "Sarajevo"
+ },
+ {
+   "ID": 23,
+   "Question": "Capital city of Botswana?",
+   "CorrectAnswer": "Gaborone",
+   "Answer1": "Gaborone",
+   "Answer2": "Basseterre",
+   "Answer3": "Vienna"
+ },
+ {
+   "ID": 24,
+   "Question": "Capital city of Brazil?",
+   "CorrectAnswer": "Brasilia",
+   "Answer1": "Beijing",
+   "Answer2": "London",
+   "Answer3": "Brasilia"
+ },
+ {
+   "ID": 25,
+   "Question": "Capital city of Brunei?",
+   "CorrectAnswer": "Bandar Seri Begawan",
+   "Answer1": "Beirut",
+   "Answer2": "Nouakchott",
+   "Answer3": "Bandar Seri Begawan"
+ },
+ {
+   "ID": 26,
+   "Question": "Capital city of Bulgaria?",
+   "CorrectAnswer": "Sofia",
+   "Answer1": "Belgrade",
+   "Answer2": "Bujumbura",
+   "Answer3": "Sofia"
+ },
+ {
+   "ID": 27,
+   "Question": "Capital city of Burkina Faso?",
+   "CorrectAnswer": "Ouagadougou",
+   "Answer1": "Tunis",
+   "Answer2": "Belmopan",
+   "Answer3": "Ouagadougou"
+ },
+ {
+   "ID": 28,
+   "Question": "Capital city of Burundi?",
+   "CorrectAnswer": "Bujumbura",
+   "Answer1": "Kampala",
+   "Answer2": "Berlin",
+   "Answer3": "Bujumbura"
+ },
+ {
+   "ID": 29,
+   "Question": "Capital city of Cabo Verde?",
+   "CorrectAnswer": "Praia",
+   "Answer1": "Bern",
+   "Answer2": "Praia",
+   "Answer3": "Abu Dhabi"
+ },
+ {
+   "ID": 30,
+   "Question": "Capital city of Cambodia?",
+   "CorrectAnswer": "Phnom Penh",
+   "Answer1": "Bishkek",
+   "Answer2": "Phnom Penh",
+   "Answer3": "Suva"
+ },
+ {
+   "ID": 31,
+   "Question": "Capital city of Cameroon?",
+   "CorrectAnswer": "Yaounde",
+   "Answer1": "Bissau",
+   "Answer2": "Yaounde",
+   "Answer3": "Lomé"
+ },
+ {
+   "ID": 32,
+   "Question": "Capital city of Canada?",
+   "CorrectAnswer": "Ottawa",
+   "Answer1": "Manila",
+   "Answer2": "Bogotá",
+   "Answer3": "Ottawa"
+ },
+ {
+   "ID": 33,
+   "Question": "Capital city of Central African Republic?",
+   "CorrectAnswer": "Bangui",
+   "Answer1": "Bangui",
+   "Answer2": "Brasilia",
+   "Answer3": "Bogotá"
+ },
+ {
+   "ID": 34,
+   "Question": "Capital city of Chad?",
+   "CorrectAnswer": "N'Djamena",
+   "Answer1": "Bratislava",
+   "Answer2": "N'Djamena",
+   "Answer3": "Sana'a"
+ },
+ {
+   "ID": 35,
+   "Question": "Capital city of Chile?",
+   "CorrectAnswer": "Santiago",
+   "Answer1": "Brazzaville",
+   "Answer2": "Santiago",
+   "Answer3": "Kabul"
+ },
+ {
+   "ID": 36,
+   "Question": "Capital city of China?",
+   "CorrectAnswer": "Beijing",
+   "Answer1": "Beijing",
+   "Answer2": "Bridgetown",
+   "Answer3": "Port of Spain"
+ },
+ {
+   "ID": 37,
+   "Question": "Capital city of Colombia?",
+   "CorrectAnswer": "Bogotá",
+   "Answer1": "Brussels",
+   "Answer2": "Rome",
+   "Answer3": "Bogotá"
+ },
+ {
+   "ID": 38,
+   "Question": "Capital city of Comoros?",
+   "CorrectAnswer": "Moroni",
+   "Answer1": "Bucharest",
+   "Answer2": "Moroni",
+   "Answer3": "Dushanbe"
+ },
+ {
+   "ID": 39,
+   "Question": "Capital city of Democratic Republic of theCongo?",
+   "CorrectAnswer": "Kinshasa",
+   "Answer1": "Ottawa",
+   "Answer2": "Kinshasa",
+   "Answer3": "Budapest"
+ },
+ {
+   "ID": 40,
+   "Question": "Capital city of Republic of the Congo?",
+   "CorrectAnswer": "Brazzaville",
+   "Answer1": "Buenos Aires",
+   "Answer2": "Berlin",
+   "Answer3": "Brazzaville"
+ },
+ {
+   "ID": 41,
+   "Question": "Capital city of Costa Rica?",
+   "CorrectAnswer": "San Jose",
+   "Answer1": "San Jose",
+   "Answer2": "Bujumbura",
+   "Answer3": "Wellington"
+ },
+ {
+   "ID": 42,
+   "Question": "Capital city of Cote d'Ivoire?",
+   "CorrectAnswer": "Yamoussoukro",
+   "Answer1": "New Delhi",
+   "Answer2": "Yamoussoukro",
+   "Answer3": "Cairo"
+ },
+ {
+   "ID": 43,
+   "Question": "Capital city of Croatia?",
+   "CorrectAnswer": "Zagreb",
+   "Answer1": "Ankara",
+   "Answer2": "Canberra",
+   "Answer3": "Zagreb"
+ },
+ {
+   "ID": 44,
+   "Question": "Capital city of Cuba?",
+   "CorrectAnswer": "Havana",
+   "Answer1": "Caracas",
+   "Answer2": "Oslo",
+   "Answer3": "Havana"
+ },
+ {
+   "ID": 45,
+   "Question": "Capital city of Cyprus?",
+   "CorrectAnswer": "Nicosia",
+   "Answer1": "Jakarta",
+   "Answer2": "Castries",
+   "Answer3": "Nicosia"
+ },
+ {
+   "ID": 46,
+   "Question": "Capital city of Czech Republic?",
+   "CorrectAnswer": "Prague",
+   "Answer1": "Chisinau",
+   "Answer2": "Port Moresby",
+   "Answer3": "Prague"
+ },
+ {
+   "ID": 47,
+   "Question": "Capital city of Denmark?",
+   "CorrectAnswer": "Copenhagen",
+   "Answer1": "Conakry",
+   "Answer2": "Juba",
+   "Answer3": "Copenhagen"
+ },
+ {
+   "ID": 48,
+   "Question": "Capital city of Djibouti?",
+   "CorrectAnswer": "Djibouti ",
+   "Answer1": "Copenhagen",
+   "Answer2": "Djibouti ",
+   "Answer3": "Dodoma"
+ },
+ {
+   "ID": 49,
+   "Question": "Capital city of Dominica?",
+   "CorrectAnswer": "Roseau",
+   "Answer1": "Roseau",
+   "Answer2": "Prague",
+   "Answer3": "Dakar"
+ },
+ {
+   "ID": 50,
+   "Question": "Capital city of Dominican Republic?",
+   "CorrectAnswer": "Santo Domingo",
+   "Answer1": "Doha",
+   "Answer2": "Santo Domingo",
+   "Answer3": "Damascus"
+ },
+ {
+   "ID": 51,
+   "Question": "Capital city of Ecuador?",
+   "CorrectAnswer": "Quito",
+   "Answer1": "Quito",
+   "Answer2": "Dhaka",
+   "Answer3": "Podgorica"
+ },
+ {
+   "ID": 52,
+   "Question": "Capital city of Egypt?",
+   "CorrectAnswer": "Cairo",
+   "Answer1": "Dili",
+   "Answer2": "Cairo",
+   "Answer3": "Conakry"
+ },
+ {
+   "ID": 53,
+   "Question": "Capital city of El Salvador?",
+   "CorrectAnswer": "San Salvador",
+   "Answer1": "Djibouti ",
+   "Answer2": "San Salvador",
+   "Answer3": "Windhoek"
+ },
+ {
+   "ID": 54,
+   "Question": "Capital city of Equatorial Guinea?",
+   "CorrectAnswer": "Malabo (de jure)",
+   "Answer1": "Dodoma",
+   "Answer2": "Athens",
+   "Answer3": "Malabo (de jure)"
+ },
+ {
+   "ID": 55,
+   "Question": "Capital city of Eritrea?",
+   "CorrectAnswer": "Asmara",
+   "Answer1": "Basseterre",
+   "Answer2": "Asmara",
+   "Answer3": "Doha"
+ },
+ {
+   "ID": 56,
+   "Question": "Capital city of Estonia?",
+   "CorrectAnswer": "Tallinn",
+   "Answer1": "Tallinn",
+   "Answer2": "Dublin",
+   "Answer3": "Kuwait City"
+ },
+ {
+   "ID": 57,
+   "Question": "Capital city of Ethiopia?",
+   "CorrectAnswer": "Addis Ababa",
+   "Answer1": "Dushanbe",
+   "Answer2": "Maseru",
+   "Answer3": "Addis Ababa"
+ },
+ {
+   "ID": 58,
+   "Question": "Capital city of Fiji?",
+   "CorrectAnswer": "Suva",
+   "Answer1": "Suva",
+   "Answer2": "Rabat",
+   "Answer3": "Freetown"
+ },
+ {
+   "ID": 59,
+   "Question": "Capital city of Finland?",
+   "CorrectAnswer": "Helsinki",
+   "Answer1": "Helsinki",
+   "Answer2": "Funafuti",
+   "Answer3": "Bissau"
+ },
+ {
+   "ID": 60,
+   "Question": "Capital city of France?",
+   "CorrectAnswer": "Paris",
+   "Answer1": "Gaborone",
+   "Answer2": "Paris",
+   "Answer3": "Nicosia"
+ },
+ {
+   "ID": 61,
+   "Question": "Capital city of Gabon?",
+   "CorrectAnswer": "Libreville",
+   "Answer1": "Libreville",
+   "Answer2": "Freetown",
+   "Answer3": "Georgetown"
+ },
+ {
+   "ID": 62,
+   "Question": "Capital city of Gambia?",
+   "CorrectAnswer": "Banjul",
+   "Answer1": "Guatemala City",
+   "Answer2": "Banjul",
+   "Answer3": "Kingstown"
+ },
+ {
+   "ID": 63,
+   "Question": "Capital city of Georgia?",
+   "CorrectAnswer": "Tbilisi",
+   "Answer1": "Tbilisi",
+   "Answer2": "Hanoi",
+   "Answer3": "Khartoum"
+ },
+ {
+   "ID": 64,
+   "Question": "Capital city of Germany?",
+   "CorrectAnswer": "Berlin",
+   "Answer1": "Mogadishu",
+   "Answer2": "Berlin",
+   "Answer3": "Harare"
+ },
+ {
+   "ID": 65,
+   "Question": "Capital city of Ghana?",
+   "CorrectAnswer": "Accra",
+   "Answer1": "Accra",
+   "Answer2": "Victoria",
+   "Answer3": "Havana"
+ },
+ {
+   "ID": 66,
+   "Question": "Capital city of Greece?",
+   "CorrectAnswer": "Athens",
+   "Answer1": "Yerevan",
+   "Answer2": "Helsinki",
+   "Answer3": "Athens"
+ },
+ {
+   "ID": 67,
+   "Question": "Capital city of Grenada?",
+   "CorrectAnswer": "Saint George's",
+   "Answer1": "Pyongyang",
+   "Answer2": "Saint George's",
+   "Answer3": "Honiara"
+ },
+ {
+   "ID": 68,
+   "Question": "Capital city of Guatemala?",
+   "CorrectAnswer": "Guatemala City",
+   "Answer1": "Bandar Seri Begawan",
+   "Answer2": "Islamabad",
+   "Answer3": "Guatemala City"
+ },
+ {
+   "ID": 69,
+   "Question": "Capital city of Guinea?",
+   "CorrectAnswer": "Conakry",
+   "Answer1": "Conakry",
+   "Answer2": "Jakarta",
+   "Answer3": "Copenhagen"
+ },
+ {
+   "ID": 70,
+   "Question": "Capital city of Guinea-Bissau?",
+   "CorrectAnswer": "Bissau",
+   "Answer1": "Bissau",
+   "Answer2": "Jerusalem",
+   "Answer3": "Bishkek"
+ },
+ {
+   "ID": 71,
+   "Question": "Capital city of Guyana?",
+   "CorrectAnswer": "Georgetown",
+   "Answer1": "Jerusalem (East)",
+   "Answer2": "Asmara",
+   "Answer3": "Georgetown"
+ },
+ {
+   "ID": 72,
+   "Question": "Capital city of Haiti?",
+   "CorrectAnswer": "Port-au-Prince",
+   "Answer1": "Tbilisi",
+   "Answer2": "Juba",
+   "Answer3": "Port-au-Prince"
+ },
+ {
+   "ID": 73,
+   "Question": "Capital city of Honduras?",
+   "CorrectAnswer": "Tegucigalpa",
+   "Answer1": "Tegucigalpa",
+   "Answer2": "Vatican City",
+   "Answer3": "Kabul"
+ },
+ {
+   "ID": 74,
+   "Question": "Capital city of Hungary?",
+   "CorrectAnswer": "Budapest",
+   "Answer1": "Budapest",
+   "Answer2": "Kampala",
+   "Answer3": "Saint John's"
+ },
+ {
+   "ID": 75,
+   "Question": "Capital city of Iceland?",
+   "CorrectAnswer": "Reykjavik",
+   "Answer1": "San Jose",
+   "Answer2": "Kathmandu",
+   "Answer3": "Reykjavik"
+ },
+ {
+   "ID": 76,
+   "Question": "Capital city of India?",
+   "CorrectAnswer": "New Delhi",
+   "Answer1": "New Delhi",
+   "Answer2": "Ulaanbaatar",
+   "Answer3": "Khartoum"
+ },
+ {
+   "ID": 77,
+   "Question": "Capital city of Indonesia?",
+   "CorrectAnswer": "Jakarta",
+   "Answer1": "Asmara",
+   "Answer2": "Jakarta",
+   "Answer3": "Kigali"
+ },
+ {
+   "ID": 78,
+   "Question": "Capital city of Iran?",
+   "CorrectAnswer": "Tehran",
+   "Answer1": "Tehran",
+   "Answer2": "Kingston",
+   "Answer3": "Buenos Aires"
+ },
+ {
+   "ID": 79,
+   "Question": "Capital city of Iraq?",
+   "CorrectAnswer": "Baghdad",
+   "Answer1": "Kingstown",
+   "Answer2": "Baghdad",
+   "Answer3": "Naypyidaw"
+ },
+ {
+   "ID": 80,
+   "Question": "Capital city of Ireland?",
+   "CorrectAnswer": "Dublin",
+   "Answer1": "Dublin",
+   "Answer2": "Muscat",
+   "Answer3": "Kinshasa"
+ },
+ {
+   "ID": 81,
+   "Question": "Capital city of Israel?",
+   "CorrectAnswer": "Jerusalem",
+   "Answer1": "Dakar",
+   "Answer2": "Jerusalem",
+   "Answer3": "Kuala Lumpur"
+ },
+ {
+   "ID": 82,
+   "Question": "Capital city of Italy?",
+   "CorrectAnswer": "Rome",
+   "Answer1": "Kuwait City",
+   "Answer2": "Rome",
+   "Answer3": "Taipei"
+ },
+ {
+   "ID": 83,
+   "Question": "Capital city of Jamaica?",
+   "CorrectAnswer": "Kingston",
+   "Answer1": "Kingston",
+   "Answer2": "Kyiv (Kiev)",
+   "Answer3": "Male"
+ },
+ {
+   "ID": 84,
+   "Question": "Capital city of Japan?",
+   "CorrectAnswer": "Tokyo",
+   "Answer1": "Tokyo",
+   "Answer2": "Baghdad",
+   "Answer3": "La Paz (seat of government)"
+ },
+ {
+   "ID": 85,
+   "Question": "Capital city of Jordan?",
+   "CorrectAnswer": "Amman",
+   "Answer1": "Libreville",
+   "Answer2": "Amman",
+   "Answer3": "Madrid"
+ },
+ {
+   "ID": 86,
+   "Question": "Capital city of Kazakhstan?",
+   "CorrectAnswer": "Astana",
+   "Answer1": "Astana",
+   "Answer2": "Lilongwe",
+   "Answer3": "Addis Ababa"
+ },
+ {
+   "ID": 87,
+   "Question": "Capital city of Kenya?",
+   "CorrectAnswer": "Nairobi",
+   "Answer1": "Nairobi",
+   "Answer2": "Kinshasa",
+   "Answer3": "Lima"
+ },
+ {
+   "ID": 88,
+   "Question": "Capital city of Kiribati?",
+   "CorrectAnswer": "Tarawa",
+   "Answer1": "Mbabane (administrative)",
+   "Answer2": "Tarawa",
+   "Answer3": "Lisbon"
+ },
+ {
+   "ID": 89,
+   "Question": "Capital city of Kosovo?",
+   "CorrectAnswer": "Pristina",
+   "Answer1": "Pristina",
+   "Answer2": "Ljubljana",
+   "Answer3": "Beijing"
+ },
+ {
+   "ID": 90,
+   "Question": "Capital city of Kuwait?",
+   "CorrectAnswer": "Kuwait City",
+   "Answer1": "Kuwait City",
+   "Answer2": "Belgrade",
+   "Answer3": "Lomé"
+ },
+ {
+   "ID": 91,
+   "Question": "Capital city of Kyrgyzstan?",
+   "CorrectAnswer": "Bishkek",
+   "Answer1": "São Tomé",
+   "Answer2": "Bishkek",
+   "Answer3": "London"
+ },
+ {
+   "ID": 92,
+   "Question": "Capital city of Laos?",
+   "CorrectAnswer": "Vientiane",
+   "Answer1": "Vientiane",
+   "Answer2": "Luanda",
+   "Answer3": "Moscow"
+ },
+ {
+   "ID": 93,
+   "Question": "Capital city of Latvia?",
+   "CorrectAnswer": "Riga",
+   "Answer1": "Riga",
+   "Answer2": "Yaren District (de facto)",
+   "Answer3": "Lusaka"
+ },
+ {
+   "ID": 94,
+   "Question": "Capital city of Lebanon?",
+   "CorrectAnswer": "Beirut",
+   "Answer1": "Beirut",
+   "Answer2": "Mexico City",
+   "Answer3": "Luxembourg "
+ },
+ {
+   "ID": 95,
+   "Question": "Capital city of Lesotho?",
+   "CorrectAnswer": "Maseru",
+   "Answer1": "Madrid",
+   "Answer2": "Djibouti ",
+   "Answer3": "Maseru"
+ },
+ {
+   "ID": 96,
+   "Question": "Capital city of Liberia?",
+   "CorrectAnswer": "Monrovia",
+   "Answer1": "Majuro",
+   "Answer2": "Bamako",
+   "Answer3": "Monrovia"
+ },
+ {
+   "ID": 97,
+   "Question": "Capital city of Libya?",
+   "CorrectAnswer": "Tripoli",
+   "Answer1": "Paramaribo",
+   "Answer2": "Malabo (de jure), ",
+   "Answer3": "Tripoli"
+ },
+ {
+   "ID": 98,
+   "Question": "Capital city of Liechtenstein?",
+   "CorrectAnswer": "Vaduz",
+   "Answer1": "Male",
+   "Answer2": "Vaduz",
+   "Answer3": "Dili"
+ },
+ {
+   "ID": 99,
+   "Question": "Capital city of Lithuania?",
+   "CorrectAnswer": "Vilnius",
+   "Answer1": "Dublin",
+   "Answer2": "Vilnius",
+   "Answer3": "Managua"
+ },
+ {
+   "ID": 100,
+   "Question": "Capital city of Luxembourg?",
+   "CorrectAnswer": "Luxembourg ",
+   "Answer1": "N'Djamena",
+   "Answer2": "Manama",
+   "Answer3": "Luxembourg "
+ },
+ {
+   "ID": 101,
+   "Question": "Capital city of Macedonia (FYROM)?",
+   "CorrectAnswer": "Skopje",
+   "Answer1": "Skopje",
+   "Answer2": "Manila",
+   "Answer3": "Tripoli"
+ },
+ {
+   "ID": 102,
+   "Question": "Capital city of Madagascar?",
+   "CorrectAnswer": "Antananarivo",
+   "Answer1": "Antananarivo",
+   "Answer2": "Maputo",
+   "Answer3": "Panama City"
+ },
+ {
+   "ID": 103,
+   "Question": "Capital city of Malawi?",
+   "CorrectAnswer": "Lilongwe",
+   "Answer1": "Harare",
+   "Answer2": "Maseru",
+   "Answer3": "Lilongwe"
+ },
+ {
+   "ID": 104,
+   "Question": "Capital city of Malaysia?",
+   "CorrectAnswer": "Kuala Lumpur",
+   "Answer1": "Mbabane (administrative)",
+   "Answer2": "Reykjavik",
+   "Answer3": "Kuala Lumpur"
+ },
+ {
+   "ID": 105,
+   "Question": "Capital city of Maldives?",
+   "CorrectAnswer": "Male",
+   "Answer1": "Male",
+   "Answer2": "Porto-Novo",
+   "Answer3": "Mexico City"
+ },
+ {
+   "ID": 106,
+   "Question": "Capital city of Mali?",
+   "CorrectAnswer": "Bamako",
+   "Answer1": "Bamako",
+   "Answer2": "Helsinki",
+   "Answer3": "Minsk"
+ },
+ {
+   "ID": 107,
+   "Question": "Capital city of Malta?",
+   "CorrectAnswer": "Valletta",
+   "Answer1": "Mogadishu",
+   "Answer2": "Valletta",
+   "Answer3": "Vaduz"
+ },
+ {
+   "ID": 108,
+   "Question": "Capital city of Marshall Islands?",
+   "CorrectAnswer": "Majuro",
+   "Answer1": "Bangkok",
+   "Answer2": "Majuro",
+   "Answer3": "Monaco"
+ },
+ {
+   "ID": 109,
+   "Question": "Capital city of Mauritania?",
+   "CorrectAnswer": "Nouakchott",
+   "Answer1": "Majuro",
+   "Answer2": "Monrovia",
+   "Answer3": "Nouakchott"
+ },
+ {
+   "ID": 110,
+   "Question": "Capital city of Mauritius?",
+   "CorrectAnswer": "Port Louis",
+   "Answer1": "Montevideo",
+   "Answer2": "Port Louis",
+   "Answer3": "Santiago"
+ },
+ {
+   "ID": 111,
+   "Question": "Capital city of Mexico?",
+   "CorrectAnswer": "Mexico City",
+   "Answer1": "Brazzaville",
+   "Answer2": "Mexico City",
+   "Answer3": "Moroni"
+ },
+ {
+   "ID": 112,
+   "Question": "Capital city of Micronesia?",
+   "CorrectAnswer": "Palikir",
+   "Answer1": "Palikir",
+   "Answer2": "Moscow",
+   "Answer3": "Luanda"
+ },
+ {
+   "ID": 113,
+   "Question": "Capital city of Moldova?",
+   "CorrectAnswer": "Chisinau",
+   "Answer1": "Muscat",
+   "Answer2": "Chisinau",
+   "Answer3": "Warsaw"
+ },
+ {
+   "ID": 114,
+   "Question": "Capital city of Monaco?",
+   "CorrectAnswer": "Monaco",
+   "Answer1": "Nairobi",
+   "Answer2": "Dhaka",
+   "Answer3": "Monaco"
+ },
+ {
+   "ID": 115,
+   "Question": "Capital city of Mongolia?",
+   "CorrectAnswer": "Ulaanbaatar",
+   "Answer1": "Nassau",
+   "Answer2": "Ulaanbaatar",
+   "Answer3": "Chisinau"
+ },
+ {
+   "ID": 116,
+   "Question": "Capital city of Montenegro?",
+   "CorrectAnswer": "Podgorica",
+   "Answer1": "Port Louis",
+   "Answer2": "Naypyidaw",
+   "Answer3": "Podgorica"
+ },
+ {
+   "ID": 117,
+   "Question": "Capital city of Morocco?",
+   "CorrectAnswer": "Rabat",
+   "Answer1": "Kigali",
+   "Answer2": "N'Djamena",
+   "Answer3": "Rabat"
+ },
+ {
+   "ID": 118,
+   "Question": "Capital city of Mozambique?",
+   "CorrectAnswer": "Maputo",
+   "Answer1": "New Delhi",
+   "Answer2": "Maputo",
+   "Answer3": "Funafuti"
+ },
+ {
+   "ID": 119,
+   "Question": "Capital city of Myanmar (Burma)?",
+   "CorrectAnswer": "Naypyidaw",
+   "Answer1": "Ngerulmud",
+   "Answer2": "Bangui",
+   "Answer3": "Naypyidaw"
+ },
+ {
+   "ID": 120,
+   "Question": "Capital city of Namibia?",
+   "CorrectAnswer": "Windhoek",
+   "Answer1": "Caracas",
+   "Answer2": "Niamey",
+   "Answer3": "Windhoek"
+ },
+ {
+   "ID": 121,
+   "Question": "Capital city of Nauru?",
+   "CorrectAnswer": "Yaren District (de facto)",
+   "Answer1": "Yaren District (de facto)",
+   "Answer2": "Nicosia",
+   "Answer3": "Seoul"
+ },
+ {
+   "ID": 122,
+   "Question": "Capital city of Nepal?",
+   "CorrectAnswer": "Kathmandu",
+   "Answer1": "Manama",
+   "Answer2": "Nouakchott",
+   "Answer3": "Kathmandu"
+ },
+ {
+   "ID": 123,
+   "Question": "Capital city of Netherlands?",
+   "CorrectAnswer": "Amsterdam",
+   "Answer1": "Hanoi",
+   "Answer2": "Amsterdam",
+   "Answer3": "Nukuʻalofa"
+ },
+ {
+   "ID": 124,
+   "Question": "Capital city of New Zealand?",
+   "CorrectAnswer": "Wellington",
+   "Answer1": "Oslo",
+   "Answer2": "Ashgabat",
+   "Answer3": "Wellington"
+ },
+ {
+   "ID": 125,
+   "Question": "Capital city of Nicaragua?",
+   "CorrectAnswer": "Managua",
+   "Answer1": "Islamabad",
+   "Answer2": "Ottawa",
+   "Answer3": "Managua"
+ },
+ {
+   "ID": 126,
+   "Question": "Capital city of Niger?",
+   "CorrectAnswer": "Niamey",
+   "Answer1": "Honiara",
+   "Answer2": "Niamey",
+   "Answer3": "Ouagadougou"
+ },
+ {
+   "ID": 127,
+   "Question": "Capital city of Nigeria?",
+   "CorrectAnswer": "Abuja",
+   "Answer1": "Abuja",
+   "Answer2": "Managua",
+   "Answer3": "Palikir"
+ },
+ {
+   "ID": 128,
+   "Question": "Capital city of North Korea?",
+   "CorrectAnswer": "Pyongyang",
+   "Answer1": "Pyongyang",
+   "Answer2": "Panama City",
+   "Answer3": "Pretoria (administrative)"
+ },
+ {
+   "ID": 129,
+   "Question": "Capital city of Norway?",
+   "CorrectAnswer": "Oslo",
+   "Answer1": "Paramaribo",
+   "Answer2": "Palikir",
+   "Answer3": "Oslo"
+ },
+ {
+   "ID": 130,
+   "Question": "Capital city of Oman?",
+   "CorrectAnswer": "Muscat",
+   "Answer1": "Paris",
+   "Answer2": "Jerusalem (East)",
+   "Answer3": "Muscat"
+ },
+ {
+   "ID": 131,
+   "Question": "Capital city of Pakistan?",
+   "CorrectAnswer": "Islamabad",
+   "Answer1": "Saint George's",
+   "Answer2": "Phnom Penh",
+   "Answer3": "Islamabad"
+ },
+ {
+   "ID": 132,
+   "Question": "Capital city of Palau?",
+   "CorrectAnswer": "Ngerulmud",
+   "Answer1": "Monrovia",
+   "Answer2": "Ngerulmud",
+   "Answer3": "Podgorica"
+ },
+ {
+   "ID": 133,
+   "Question": "Capital city of Palestine?",
+   "CorrectAnswer": "Jerusalem (East)",
+   "Answer1": "Port Louis",
+   "Answer2": "Kyiv (Kiev)",
+   "Answer3": "Jerusalem (East)"
+ },
+ {
+   "ID": 134,
+   "Question": "Capital city of Panama?",
+   "CorrectAnswer": "Panama City",
+   "Answer1": "Port Moresby",
+   "Answer2": "Bratislava",
+   "Answer3": "Panama City"
+ },
+ {
+   "ID": 135,
+   "Question": "Capital city of Papua New Guinea?",
+   "CorrectAnswer": "Port Moresby",
+   "Answer1": "Port Moresby",
+   "Answer2": "Port of Spain",
+   "Answer3": "Tarawa"
+ },
+ {
+   "ID": 136,
+   "Question": "Capital city of Paraguay?",
+   "CorrectAnswer": "Asunción",
+   "Answer1": "Asunción",
+   "Answer2": "Port Vila",
+   "Answer3": "Jerusalem"
+ },
+ {
+   "ID": 137,
+   "Question": "Capital city of Peru?",
+   "CorrectAnswer": "Lima",
+   "Answer1": "Lima",
+   "Answer2": "Gaborone",
+   "Answer3": "Port-au-Prince"
+ },
+ {
+   "ID": 138,
+   "Question": "Capital city of Philippines?",
+   "CorrectAnswer": "Manila",
+   "Answer1": "Manila",
+   "Answer2": "Malabo (de jure)",
+   "Answer3": "Porto-Novo"
+ },
+ {
+   "ID": 139,
+   "Question": "Capital city of Poland?",
+   "CorrectAnswer": "Warsaw",
+   "Answer1": "Prague",
+   "Answer2": "Warsaw",
+   "Answer3": "Algiers"
+ },
+ {
+   "ID": 140,
+   "Question": "Capital city of Portugal?",
+   "CorrectAnswer": "Lisbon",
+   "Answer1": "Praia",
+   "Answer2": "Lisbon",
+   "Answer3": "Banjul"
+ },
+ {
+   "ID": 141,
+   "Question": "Capital city of Qatar?",
+   "CorrectAnswer": "Doha",
+   "Answer1": "Kathmandu",
+   "Answer2": "Doha",
+   "Answer3": "Pretoria (administrative)"
+ },
+ {
+   "ID": 142,
+   "Question": "Capital city of Romania?",
+   "CorrectAnswer": "Bucharest",
+   "Answer1": "Pristina",
+   "Answer2": "Monaco",
+   "Answer3": "Bucharest"
+ },
+ {
+   "ID": 143,
+   "Question": "Capital city of Russia?",
+   "CorrectAnswer": "Moscow",
+   "Answer1": "Bridgetown",
+   "Answer2": "Moscow",
+   "Answer3": "Pyongyang"
+ },
+ {
+   "ID": 144,
+   "Question": "Capital city of Rwanda?",
+   "CorrectAnswer": "Kigali",
+   "Answer1": "Kigali",
+   "Answer2": "Santo Domingo",
+   "Answer3": "Quito"
+ },
+ {
+   "ID": 145,
+   "Question": "Capital city of Saint Kitts and Nevis?",
+   "CorrectAnswer": "Basseterre",
+   "Answer1": "Basseterre",
+   "Answer2": "Rabat",
+   "Answer3": "Port Vila"
+ },
+ {
+   "ID": 146,
+   "Question": "Capital city of Saint Lucia?",
+   "CorrectAnswer": "Castries",
+   "Answer1": "Valletta",
+   "Answer2": "Castries",
+   "Answer3": "Reykjavik"
+ },
+ {
+   "ID": 147,
+   "Question": "Capital city of Saint Vincent and the Grenadines?",
+   "CorrectAnswer": "Kingstown",
+   "Answer1": "Port-au-Prince",
+   "Answer2": "Riga",
+   "Answer3": "Kingstown"
+ },
+ {
+   "ID": 148,
+   "Question": "Capital city of Samoa?",
+   "CorrectAnswer": "Apia",
+   "Answer1": "Sucre (de jure)",
+   "Answer2": "Apia",
+   "Answer3": "Riyadh"
+ },
+ {
+   "ID": 149,
+   "Question": "Capital city of San Marino?",
+   "CorrectAnswer": "San Marino",
+   "Answer1": "Zagreb",
+   "Answer2": "Rome",
+   "Answer3": "San Marino"
+ },
+ {
+   "ID": 150,
+   "Question": "Capital city of Sao Tome and Principe?",
+   "CorrectAnswer": "São Tomé",
+   "Answer1": "Tehran",
+   "Answer2": "Roseau",
+   "Answer3": "São Tomé"
+ },
+ {
+   "ID": 151,
+   "Question": "Capital city of Saudi Arabia?",
+   "CorrectAnswer": "Riyadh",
+   "Answer1": "Riyadh",
+   "Answer2": "Sofia",
+   "Answer3": "Saint George's"
+ },
+ {
+   "ID": 152,
+   "Question": "Capital city of Senegal?",
+   "CorrectAnswer": "Dakar",
+   "Answer1": "Saint John's",
+   "Answer2": "Dakar",
+   "Answer3": "Nukuʻalofa"
+ },
+ {
+   "ID": 153,
+   "Question": "Capital city of Serbia?",
+   "CorrectAnswer": "Belgrade",
+   "Answer1": "San Jose",
+   "Answer2": "Niamey",
+   "Answer3": "Belgrade"
+ },
+ {
+   "ID": 154,
+   "Question": "Capital city of Seychelles?",
+   "CorrectAnswer": "Victoria",
+   "Answer1": "Tashkent",
+   "Answer2": "San Marino",
+   "Answer3": "Victoria"
+ },
+ {
+   "ID": 155,
+   "Question": "Capital city of Sierra Leone?",
+   "CorrectAnswer": "Freetown",
+   "Answer1": "Belmopan",
+   "Answer2": "San Salvador",
+   "Answer3": "Freetown"
+ },
+ {
+   "ID": 156,
+   "Question": "Capital city of Singapore?",
+   "CorrectAnswer": "Singapore",
+   "Answer1": "Kuala Lumpur",
+   "Answer2": "Singapore",
+   "Answer3": "Sana'a"
+ },
+ {
+   "ID": 157,
+   "Question": "Capital city of Slovakia?",
+   "CorrectAnswer": "Bratislava",
+   "Answer1": "Sri Jayawardenepura Kotte",
+   "Answer2": "Bratislava",
+   "Answer3": "Santiago"
+ },
+ {
+   "ID": 158,
+   "Question": "Capital city of Slovenia?",
+   "CorrectAnswer": "Ljubljana",
+   "Answer1": "Ouagadougou",
+   "Answer2": "Ljubljana",
+   "Answer3": "Santo Domingo"
+ },
+ {
+   "ID": 159,
+   "Question": "Capital city of Solomon Islands?",
+   "CorrectAnswer": "Honiara",
+   "Answer1": "Beirut",
+   "Answer2": "Honiara",
+   "Answer3": "São Tomé"
+ },
+ {
+   "ID": 160,
+   "Question": "Capital city of Somalia?",
+   "CorrectAnswer": "Mogadishu",
+   "Answer1": "Sarajevo",
+   "Answer2": "Mogadishu",
+   "Answer3": "Lisbon"
+ },
+ {
+   "ID": 161,
+   "Question": "Capital city of South Africa?",
+   "CorrectAnswer": "Pretoria (administrative)",
+   "Answer1": "Singapore",
+   "Answer2": "Seoul",
+   "Answer3": "Pretoria (administrative)"
+ },
+ {
+   "ID": 162,
+   "Question": "Capital city of South Korea?",
+   "CorrectAnswer": "Seoul",
+   "Answer1": "Seoul",
+   "Answer2": "Minsk",
+   "Answer3": "Singapore"
+ },
+ {
+   "ID": 163,
+   "Question": "Capital city of South Sudan?",
+   "CorrectAnswer": "Juba",
+   "Answer1": "Roseau",
+   "Answer2": "Juba",
+   "Answer3": "Skopje"
+ },
+ {
+   "ID": 164,
+   "Question": "Capital city of Spain?",
+   "CorrectAnswer": "Madrid",
+   "Answer1": "Libreville",
+   "Answer2": "Madrid",
+   "Answer3": "Sri Jayawardenepura Kotte"
+ },
+ {
+   "ID": 165,
+   "Question": "Capital city of Sri Lanka?",
+   "CorrectAnswer": "Sri Jayawardenepura Kotte",
+   "Answer1": "Sofia",
+   "Answer2": "Lilongwe",
+   "Answer3": "Sri Jayawardenepura Kotte"
+ },
+ {
+   "ID": 166,
+   "Question": "Capital city of Sudan?",
+   "CorrectAnswer": "Khartoum",
+   "Answer1": "Khartoum",
+   "Answer2": "Castries",
+   "Answer3": "Stockholm"
+ },
+ {
+   "ID": 167,
+   "Question": "Capital city of Suriname?",
+   "CorrectAnswer": "Paramaribo",
+   "Answer1": "Paramaribo",
+   "Answer2": "Canberra",
+   "Answer3": "Sucre (de jure)"
+ },
+ {
+   "ID": 168,
+   "Question": "Capital city of Swaziland?",
+   "CorrectAnswer": "Mbabane (administrative)",
+   "Answer1": "San Marino",
+   "Answer2": "Mbabane (administrative)",
+   "Answer3": "Suva"
+ },
+ {
+   "ID": 169,
+   "Question": "Capital city of Sweden?",
+   "CorrectAnswer": "Stockholm",
+   "Answer1": "Tirana",
+   "Answer2": "Taipei",
+   "Answer3": "Stockholm"
+ },
+ {
+   "ID": 170,
+   "Question": "Capital city of Switzerland?",
+   "CorrectAnswer": "Bern",
+   "Answer1": "Bern",
+   "Answer2": "Kingston",
+   "Answer3": "Tallinn"
+ },
+ {
+   "ID": 171,
+   "Question": "Capital city of Syria?",
+   "CorrectAnswer": "Damascus",
+   "Answer1": "Damascus",
+   "Answer2": "Accra",
+   "Answer3": "Tarawa"
+ },
+ {
+   "ID": 172,
+   "Question": "Capital city of Taiwan?",
+   "CorrectAnswer": "Taipei",
+   "Answer1": "Taipei",
+   "Answer2": "Baku",
+   "Answer3": "Tashkent"
+ },
+ {
+   "ID": 173,
+   "Question": "Capital city of Tajikistan?",
+   "CorrectAnswer": "Dushanbe",
+   "Answer1": "Tbilisi",
+   "Answer2": "Tallinn",
+   "Answer3": "Dushanbe"
+ },
+ {
+   "ID": 174,
+   "Question": "Capital city of Tanzania?",
+   "CorrectAnswer": "Dodoma",
+   "Answer1": "Tegucigalpa",
+   "Answer2": "Dodoma",
+   "Answer3": "Riyadh"
+ },
+ {
+   "ID": 175,
+   "Question": "Capital city of Thailand?",
+   "CorrectAnswer": "Bangkok",
+   "Answer1": "Bangkok",
+   "Answer2": "Tehran",
+   "Answer3": "Asunción"
+ },
+ {
+   "ID": 176,
+   "Question": "Capital city of Timor-Leste?",
+   "CorrectAnswer": "Dili",
+   "Answer1": "Astana",
+   "Answer2": "Thimphu",
+   "Answer3": "Dili"
+ },
+ {
+   "ID": 177,
+   "Question": "Capital city of Togo?",
+   "CorrectAnswer": "Lomé",
+   "Answer1": "Lomé",
+   "Answer2": "Riga",
+   "Answer3": "Tunis"
+ },
+ {
+   "ID": 178,
+   "Question": "Capital city of Tonga?",
+   "CorrectAnswer": "Nukuʻalofa",
+   "Answer1": "Tokyo",
+   "Answer2": "Bern",
+   "Answer3": "Nukuʻalofa"
+ },
+ {
+   "ID": 179,
+   "Question": "Capital city of Trinidad and Tobago?",
+   "CorrectAnswer": "Port of Spain",
+   "Answer1": "Tripoli",
+   "Answer2": "Andorra la Vella",
+   "Answer3": "Port of Spain"
+ },
+ {
+   "ID": 180,
+   "Question": "Capital city of Tunisia?",
+   "CorrectAnswer": "Tunis",
+   "Answer1": "Paris",
+   "Answer2": "Tunis",
+   "Answer3": "Tirana"
+ },
+ {
+   "ID": 181,
+   "Question": "Capital city of Turkey?",
+   "CorrectAnswer": "Ankara",
+   "Answer1": "Ankara",
+   "Answer2": "Ulaanbaatar",
+   "Answer3": "La Paz (seat of government)"
+ },
+ {
+   "ID": 182,
+   "Question": "Capital city of Turkmenistan?",
+   "CorrectAnswer": "Ashgabat",
+   "Answer1": "Vaduz",
+   "Answer2": "Praia",
+   "Answer3": "Ashgabat"
+ },
+ {
+   "ID": 183,
+   "Question": "Capital city of Tuvalu?",
+   "CorrectAnswer": "Funafuti",
+   "Answer1": "Nairobi",
+   "Answer2": "Funafuti",
+   "Answer3": "Valletta"
+ },
+ {
+   "ID": 184,
+   "Question": "Capital city of Uganda?",
+   "CorrectAnswer": "Kampala",
+   "Answer1": "Montevideo",
+   "Answer2": "Vatican City",
+   "Answer3": "Kampala"
+ },
+ {
+   "ID": 185,
+   "Question": "Capital city of Ukraine?",
+   "CorrectAnswer": "Kyiv (Kiev)",
+   "Answer1": "San Salvador",
+   "Answer2": "Victoria",
+   "Answer3": "Kyiv (Kiev)"
+ },
+ {
+   "ID": 186,
+   "Question": "Capital city of United Arab Emirates?",
+   "CorrectAnswer": "Abu Dhabi",
+   "Answer1": "Skopje",
+   "Answer2": "Abu Dhabi",
+   "Answer3": "Vienna"
+ },
+ {
+   "ID": 187,
+   "Question": "Capital city of United Kingdom?",
+   "CorrectAnswer": "London",
+   "Answer1": "Stockholm",
+   "Answer2": "Vientiane",
+   "Answer3": "London"
+ },
+ {
+   "ID": 188,
+   "Question": "Capital city of United States of America?",
+   "CorrectAnswer": "Washington, D.C.",
+   "Answer1": "Washington, D.C.",
+   "Answer2": "Tokyo",
+   "Answer3": "Vilnius"
+ },
+ {
+   "ID": 189,
+   "Question": "Capital city of Uruguay?",
+   "CorrectAnswer": "Montevideo",
+   "Answer1": "Warsaw",
+   "Answer2": "Montevideo",
+   "Answer3": "Phnom Penh"
+ },
+ {
+   "ID": 190,
+   "Question": "Capital city of Uzbekistan?",
+   "CorrectAnswer": "Tashkent",
+   "Answer1": "Washington, D.C.",
+   "Answer2": "Abuja",
+   "Answer3": "Tashkent"
+ },
+ {
+   "ID": 191,
+   "Question": "Capital city of Vanuatu?",
+   "CorrectAnswer": "Port Vila",
+   "Answer1": "Havana",
+   "Answer2": "Port Vila",
+   "Answer3": "Wellington"
+ },
+ {
+   "ID": 192,
+   "Question": "Capital city of Vatican City?",
+   "CorrectAnswer": "Vatican City",
+   "Answer1": "Brussels",
+   "Answer2": "Vatican City",
+   "Answer3": "Windhoek"
+ },
+ {
+   "ID": 193,
+   "Question": "Capital city of Venezuela?",
+   "CorrectAnswer": "Caracas",
+   "Answer1": "Caracas",
+   "Answer2": "Yamoussoukro",
+   "Answer3": "Sarajevo"
+ },
+ {
+   "ID": 194,
+   "Question": "Capital city of Vietnam?",
+   "CorrectAnswer": "Hanoi",
+   "Answer1": "Lusaka",
+   "Answer2": "Hanoi",
+   "Answer3": "Yaounde"
+ },
+ {
+   "ID": 195,
+   "Question": "Capital city of Yemen?",
+   "CorrectAnswer": "Sana'a",
+   "Answer1": "Yaren District (de facto)",
+   "Answer2": "Quito",
+   "Answer3": "Sana'a"
+ },
+ {
+   "ID": 196,
+   "Question": "Capital city of Zambia?",
+   "CorrectAnswer": "Lusaka",
+   "Answer1": "Lusaka",
+   "Answer2": "Washington, D.C.",
+   "Answer3": "Yerevan"
+ },
+ {
+   "ID": 197,
+   "Question": "Capital city of Zimbabwe?",
+   "CorrectAnswer": "Harare",
+   "Answer1": "Thimphu",
+   "Answer2": "Zagreb",
+   "Answer3": "Harare"
+ }
+]
+}
